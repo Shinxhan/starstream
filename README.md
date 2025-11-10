@@ -113,11 +113,6 @@ python manage.py createsuperuser
 ```bash
 python manage.py runserver
 ```
-
-### 7️⃣ Access the App
-Visit:  
-👉 [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
-
 ---
 
 ## 🧠 Key Learnings
